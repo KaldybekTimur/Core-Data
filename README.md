@@ -1,5 +1,6 @@
-# Core-Data
-## Core Data by Tutorials Aaron Douglas, Matthew Morey and Pietro Rea 
+
+## Core Data 
+### by Tutorials Aaron Douglas, Matthew Morey and Pietro Rea 
 
 #### Chapter 1: Your First Core Data App
 #### Chapter 2: NSManagedObject Subclasses
