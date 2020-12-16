@@ -12,7 +12,7 @@
 #### Chapter 8: Measuring & Boosting Performance  
 #### Chapter 9: Multiple Managed Object Contexts
 #### Chapter 10: NSPersistentCloudKitContainer 
-
+### KVO & KVC by [SwiftBook.ru](https://www.youtube.com/watch?v=NQpw7t84m4E&ab_channel=SwiftBook.ru)
 Raywenderlich.com
 Copyright ©2020 Razeware LLC.
 
